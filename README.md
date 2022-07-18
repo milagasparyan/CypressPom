@@ -2,7 +2,6 @@
 Cypress with POM test in https://www.booking.com/
 Dependencies:
 
-
 JavaScript
 Node v16.16.0
 Cypress 10.3.0
