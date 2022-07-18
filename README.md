@@ -4,7 +4,9 @@ Cypress with POM test in https://www.booking.com/
 Dependencies:
 
 JavaScript
+
 Node v16.16.0
+
 Cypress 10.3.0
 
 
@@ -14,6 +16,7 @@ cd to root directory of the project Install Node modules using npm install
 Running tests:
 
 browser mode: npx cypress open
+
 headless mode: npx cypress run
 
 Steps:
